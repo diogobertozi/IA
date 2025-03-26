@@ -26,4 +26,23 @@ The second dataset will vary based on the selection but will be structured simil
 
 ## Usage
 This documentation serves as a guide for understanding the datasets used in the clustering analysis. Ensure that the datasets are properly loaded and pre-processed before applying the clustering algorithms.
+
+## How to Run the Project
+1. Clone the repository to your local machine:
+   ```
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```
+   cd atividade_agrupamento_IA
+   ```
+3. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run the clustering analysis script:
+   ```
+   python clustering_analysis.py
+   ```
+5. Review the output and visualizations generated in the results folder.
 """
